@@ -43,13 +43,6 @@ Sou um desenvolvedor apaixonado por transformar problemas complexos em soluçõe
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/paesmasacottes">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=paesmasacottes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paesmasacottes&layout=compact&theme=dracula&hide_border=true"/>
-  </a>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=paesmasacottes&theme=dracula&hide_border=true" alt="Diogo's Streak" />
 </div>
 
