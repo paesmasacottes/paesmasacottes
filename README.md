@@ -1,7 +1,7 @@
 # Olá, eu sou o Diogo Paes! 👋
 ### Desenvolvedor Full Stack | Tech Lead | Entusiasta de IA
 
-Sou um desenvolvedor apaixonado por transformar problemas complexos em soluções digitais. Atuo com uma **visão 360º de tecnologia**, unindo sólida experiência em Infraestrutura com Engenharia de Software moderna. Meu foco é criar arquiteturas robustas, automações inteligentes e produtos SaaS escaláveis.
+Sou um desenvolvedor apaixonado por transformar problemas complexos em soluções digitais. Atuo com uma **visão 360º de tecnologia**.
 
 - 🧠 **Interesses:** Desenvolvimento Full Stack, Arquitetura de Software e Automação (RPA).
 - 🚀 **Especialidade:** Transformar ideias em MVPs funcionais com código limpo e performance.
@@ -10,7 +10,7 @@ Sou um desenvolvedor apaixonado por transformar problemas complexos em soluçõe
 
 ---
 
-### 💻 Arsenal Tecnológico
+### 💻 Tech Stack
 
 **Front-end & Interfaces**
 <br>
@@ -44,8 +44,8 @@ Sou um desenvolvedor apaixonado por transformar problemas complexos em soluçõe
 
 <div align="center">
   <a href="https://github.com/paesmasacottes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paesmasacottes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paesmasacottes&layout=compact&theme=dracula&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=paesmasacottes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paesmasacottes&layout=compact&theme=dracula&hide_border=true"/>
   </a>
 </div>
 
