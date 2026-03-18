@@ -1,5 +1,5 @@
 # Olá, eu sou o Diogo Paes! 👋
-### Desenvolvedor Full Stack | Tech Lead | Entusiasta de IA
+### Desenvolvedor
 
 Sou um desenvolvedor apaixonado por transformar problemas complexos em soluções digitais. Atuo com uma **visão 360º de tecnologia**.
 
