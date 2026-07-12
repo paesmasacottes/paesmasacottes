@@ -1,7 +1,7 @@
 # Olá, eu sou o Diogo Paes! 👋
 ### Desenvolvedor
 
-Sou um desenvolvedor apaixonado por transformar problemas complexos em soluções digitais. Atuo com uma **visão 360º de tecnologia**.
+Sou um apaixonado por transformar problemas complexos em soluções digitais. Atuo com uma **visão 360º de tecnologia**.
 
 - 🧠 **Interesses:** Desenvolvimento Full Stack, Arquitetura de Software e Automação (RPA).
 - 🚀 **Especialidade:** Transformar ideias em MVPs funcionais com código limpo e performance.
